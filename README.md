@@ -1,6 +1,6 @@
 # Taboo Builder
 
-Build, customize, and print/share decks for the party game Taboo. This project provides a simple browser UI (served by `index.php`) to create cards where each card has one target word and a list of “taboo” (forbidden) words that clue‑givers must avoid saying.
+Build, customize, and print/share decks for a party game. This project provides a simple browser UI (served by `index.php`) to create cards where each card has one target word and a list of “taboo” (forbidden) words that clue‑givers must avoid saying.
 
 ## Quick Start
 
