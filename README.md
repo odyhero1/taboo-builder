@@ -26,13 +26,6 @@ Build, customize, and print/share decks for the party game Taboo. This project p
   - Use the app’s save/export option (for example, to JSON or a printable view) if available.
   - To play in person, use a printable view or your browser’s print dialog to create physical cards.
 
-## Playing Taboo (Quick Rules)
-
-- Teams take turns. One player gives clues to their team.
-- The clue‑giver tries to get their team to say the target word on the card.
-- The clue‑giver must not say any taboo (forbidden) words on that card.
-- If a taboo word is used, the card is skipped/penalized per your house rules.
-- Score a point for each correctly guessed card within the time limit.
 
 ## Tips
 
